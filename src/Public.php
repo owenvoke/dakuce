@@ -28,4 +28,14 @@ class Basic
     {
         return $this->call('public/getcurrencies');
     }
+
+    /**
+     * Retrieve the list of market summaries.
+     *
+     * @return mixed
+     */
+    public function getMarketSummaries()
+    {
+        return $this->call('public/getmarketsummaries');
+    }
 }
