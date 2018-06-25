@@ -18,4 +18,14 @@ class Basic
     {
         return $this->call('public/getmarkets');
     }
+
+    /**
+     * Retrieve the list of available currencies.
+     *
+     * @return mixed
+     */
+    public function getCurrencies()
+    {
+        return $this->call('public/getcurrencies');
+    }
 }
