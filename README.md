@@ -53,13 +53,13 @@ The MIT License (MIT). Please see [License File](LICENSE.md) for more informatio
 [ico-version]: https://img.shields.io/packagist/v/pxgamer/dakuce.svg?style=flat-square
 [ico-license]: https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square
 [ico-travis]: https://img.shields.io/travis/pxgamer/dakuce/master.svg?style=flat-square
-[ico-styleci]: https://styleci.io/repos//shield
+[ico-styleci]: https://styleci.io/repos/138599632/shield
 [ico-code-quality]: https://img.shields.io/codecov/c/github/pxgamer/dakuce.svg?style=flat-square
 [ico-downloads]: https://img.shields.io/packagist/dt/pxgamer/dakuce.svg?style=flat-square
 
 [link-packagist]: https://packagist.org/packages/pxgamer/dakuce
 [link-travis]: https://travis-ci.org/pxgamer/dakuce
-[link-styleci]: https://styleci.io/repos/
+[link-styleci]: https://styleci.io/repos/138599632
 [link-code-quality]: https://codecov.io/gh/pxgamer/dakuce
 [link-downloads]: https://packagist.org/packages/pxgamer/dakuce
 [link-author]: https://github.com/pxgamer
